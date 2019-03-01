@@ -12,7 +12,7 @@ app.use(cors())
 
 app.get('/api/status', (req, res) => {
   res.send({
-    message: 'Hello World'
+    message: 'Hello Status'
   })
 })
 
