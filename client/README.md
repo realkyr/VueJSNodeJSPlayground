@@ -1,4 +1,4 @@
-# client
+# Vue-js Client Side
 
 ## Project setup
 ```
