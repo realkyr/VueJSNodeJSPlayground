@@ -5,7 +5,7 @@ server/node_modules
 # production
 client/dist
 server/view
-/public_server
+/xsample-application
 
 # misc
 .DS_Store
